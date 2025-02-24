@@ -3,6 +3,9 @@
 
 # 简体中文（Simplified Chinese）： ！！！警告！！！该程序会导致系统损坏，请确保你知道这个软件会造成什么后果，避免产生不可挽回的损失。可能的损害包括但不限于：系统瘫痪、数据丢失等。用户应自行承担运行该程序的所有后果。强烈建议在运行程序前进行数据备份。
 
+# !!!警告!!! 此程式會導致系統損壞，請確保你知道這個軟件會造成什麼後果，以避免不可挽回的損失。可能的損害包括但不限於：系統瘫痪、資料丟失等。用戶應自行承擔運行此程式的所有後果。強烈建議在運行程式前進行資料備份。
+# 請注意，上述非简体中文說明均為AI生成。請在閱讀並理解你熟悉的語言警告後，再查看一遍简体中文警告，確認其與已閱讀並理解的內容相同。
+
 # English (AI generated): !!! Warning !!! This program will cause system damage. Please ensure you know the consequences of running this software to avoid irreparable losses. Potential damages include, but are not limited to, system failure and data loss. The user assumes all responsibility for running this program. It is strongly recommended to back up data before running the program.
 # Please note, the above non-Chinese warnings are AI-generated. Please read and understand the warning in the language you are familiar with, and then check the Chinese warning again to ensure it matches the content you have read and understood.
 
